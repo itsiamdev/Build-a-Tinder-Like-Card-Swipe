@@ -15,7 +15,7 @@ A fun and interactive card swipe application inspired by Tinder, built using pur
 4. Watch the cards animate away! 🌟
 
 ## Live Demo 🌐
-Check out the live demo: [https://iam269.github.io/Build-a-Tinder-Like-Card-Swipe/](https://iam269.github.io/Build-a-Tinder-Like-Card-Swipe/)
+Check out the live demo: [https://itsiamdev.github.io/Build-a-Tinder-Like-Card-Swipe/](https://itsiamdev.github.io/Build-a-Tinder-Like-Card-Swipe/)
 
 ## Technologies Used 🛠️
 - HTML5
